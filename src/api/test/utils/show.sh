@@ -1,0 +1,1 @@
+ docker exec -i  mysql_my_api  mysql -u root -ppassword  < $(pwd)/show.sql
